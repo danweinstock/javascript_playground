@@ -1,0 +1,32 @@
+/*.flex{
+	display: flex;
+}
+.flex-item{
+	background-color: green;
+	border: 3px solid black;
+	padding: 2rem;
+}
+.item4{
+	order: 1;
+}
+.item3{
+	order:4;
+}
+.item2{
+	order: 2;
+}
+.item1{
+	order: 3;
+}*/
+.red {
+	background: red;
+}
+.blue {
+	background: #00BFFF;
+}
+.green {
+	background: green;
+}
+.yellow {
+	background: yellow;
+}
